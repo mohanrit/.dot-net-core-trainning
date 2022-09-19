@@ -1,0 +1,147 @@
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\appsettings.Development.json
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\appsettings.json
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.exe
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.deps.json
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.runtimeconfig.json
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.runtimeconfig.dev.json
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\ref\WFM_Models.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.pdb
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.Views.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.Views.pdb
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Azure.Core.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Azure.Identity.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Humanizer.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.csproj.AssemblyReference.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.AssemblyInfoInputs.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.AssemblyInfo.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.csproj.CoreCompileInputs.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorAssemblyInfo.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorAssemblyInfo.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\scopedcss\bundle\WFM_Models.styles.css
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\staticwebassets\WFM_Models.StaticWebAssets.Manifest.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.TagHelpers.input.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.TagHelpers.output.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorCoreGenerate.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorTargetAssemblyInfo.cache
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorTargetAssemblyInfo.cs
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.Views.pdb
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.csproj.CopyComplete
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\ref\WFM_Models.dll
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.pdb
+D:\Dotnet_training\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.genruntimeconfig.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\appsettings.json
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.exe
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.deps.json
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.runtimeconfig.json
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.runtimeconfig.dev.json
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\ref\WFM_Models.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.pdb
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.Views.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\WFM_Models.Views.pdb
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Azure.Core.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Azure.Identity.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.csprojAssemblyReference.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.AssemblyInfoInputs.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.AssemblyInfo.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorAssemblyInfo.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorAssemblyInfo.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\staticwebassets\WFM_Models.StaticWebAssets.Manifest.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\staticwebassets\WFM_Models.StaticWebAssets.xml
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\scopedcss\bundle\WFM_Models.styles.css
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.TagHelpers.input.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.TagHelpers.output.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorCoreGenerate.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorTargetAssemblyInfo.cache
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.RazorTargetAssemblyInfo.cs
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.Views.pdb
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.csproj.CopyComplete
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\ref\WFM_Models.dll
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.pdb
+D:\Asp.Net Core Task\Dotnet_Training-main\Dotnet_Training-main\WFM_ModelsSolution\WFM_Models\obj\Debug\net5.0\WFM_Models.genruntimeconfig.cache
