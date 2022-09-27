@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Task_WFM.Models.Employeeswithskills>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.employee_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.manager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.wfm_manager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lockstatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.experience)
+            </th>
+            <th>
+                skills
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.employee_name
+            </td>
+            <td>
+                @item.status
+            </td>
+            <td>
+                @item.manager
+            </td>
+            <td>
+                @item.wfm_manager
+            </td>
+            <td>
+                @item.email
+            </td>
+            <td>
+                @item.wfm_manager
+            </td>
+            <td>
+                @item.experience
+            </td>
+            <td>
+                <ul style="float: left;padding:3px;background-color:grey;margin-left:4px;list-style-type:none">
+                    @foreach (var x in item.Skills)
+                    {
+                        <li>@x</li>
+                    }
+                </ul>
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.employee_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.employee_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.employee_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
